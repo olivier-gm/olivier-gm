@@ -38,15 +38,6 @@ Desarrollador Full-Stack y Web3, especializado en el ecosistema de Python y Node
 
 ---
 
-### 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olivier-gm&show_icons=true&theme=radical&include_all_commits=true" alt="Estadísticas de GitHub de Olivier" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivier-gm&layout=compact&theme=radical" alt="Lenguajes más usados por Olivier" height="180" />
-</p>
-
----
-
 ### 🤝 Conectemos
 
 Si estás interesado en colaborar en proyectos de IA, Web3 o desarrollo Full-Stack, ¡no dudes en contactarme!
