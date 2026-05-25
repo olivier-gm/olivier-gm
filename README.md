@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rol-Full--Stack%20%26%20Web3%20Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enfoque-IA%20%26%20Optimización%20de%20APIs-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enfoque-IA%20%26%20Implementación%20de%20APIs-blueviolet?style=for-the-badge" />
 </p>
 
 ---
